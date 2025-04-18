@@ -1,3 +1,5 @@
+Dự án đã deploy tại: https://react-ultimate-backend-mtkv.onrender.com
+
 Các bước cần làm:
 
 - Dùng npm:
@@ -12,5 +14,3 @@ Các bước cần làm:
 2. chạy project: yarn start
 
 =============
-
-Lưu ý: với MacOS/Linux, nếu không thấy file .env => google cách hiện , or mở = vscode :v
